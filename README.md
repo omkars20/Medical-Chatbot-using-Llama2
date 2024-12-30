@@ -9,7 +9,7 @@ Clone the repository
 Project repo: https://github.com/omkars20/Medical-Chatbot-using-Llama2.git
 ```
 
-### STEP 01- Create a conda environment after opening the repository
+### STEP 01- python environment after opening the repository
 
 ```bash
 python3 -m venv medical-venv
